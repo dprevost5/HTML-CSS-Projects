@@ -1,0 +1,96 @@
+html {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 90%;
+}
+
+/*==========================================
+    GALLERY STYLES
+============================================*/
+#gallery h1 {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    color: brown;
+    font-weight: 800;
+    font-size: 3em;    
+}   
+
+/*==========================================
+    CONTACT STYLES
+============================================*/
+#contact h1 {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    color: brown;
+    font-weight: 800;
+    font-size: 3em;
+}
+
+.reservation {
+    width: 60%;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 0px auto;
+    background-color: rgba(100, 65, 0, .3);
+    box-shadow: -1px, -1px, 1px, 0 rgba(0, 0, 0, 0.1), 1px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.reservation h2 {
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+    color: #13161b;
+    font-weight: 500;
+    font-size: 1.3em;
+    letter-spacing: 0pt;
+    word-spacing: 0pt;
+}
+
+.reservation h2 span {
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+    color: #13161b;
+    font-weight: 900;
+    font-size: 1.5em;
+    font-variant: small-caps;
+    letter-spacing: .4pt;
+    word-spacing: .3pt;
+}
+
+.reservation p {
+    color: #13161b;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.reservation form {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #8d8e8f;
+    padding: 12px 12px;
+    width: 70%;
+    border: 1px solid #808080;
+    margin: 2% auto;
+    border-radius: 7px;
+    background: rgb(227,222,222);
+    box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.3);
+    font-family: 'Raleway', sans-serif;
+}
+
+.reservation input[type="text"] {
+    width: 80%;
+    margin: 10px 1em;
+    border-top: 1px solid black;
+    border-right: 2px solid gray;
+    border-bottom: 2px solid #424549;
+    border-left: 1px solid black;
+    border-radius: 7px;
+}
+
+.reservation input[type="text"]:hover {
+    box-shadow: 0 0 18px rgba(100, 65, 0, .8);
+}
