@@ -4,7 +4,7 @@ Here is a display of sample websited I created using HTML and CSS.
 
 ## Projects
 
-* [The Space Station Site](https://github.com/dprevost5/HTML-CSS-Projects/tree/main/Project)
+* [The Space Station Site](https://github.com/dprevost5/HTML-CSS-Projects/blob/main/Project/index.html)
 * [Movie Theater Site](https://github.com/dprevost5/HTML-CSS-Projects/blob/main/Bootstrap4_Project/academy_cinemas.html)
 * [Adopt A Kitten Rescue Site](https://github.com/dprevost5/HTML-CSS-Projects/blob/main/Basic_HTML_and_CSS/Image_Challenge/Img_Challenge.html)
 
